@@ -1,53 +1,42 @@
-# 👋 Hi, I'm Shukurolloh Abdulboqiyev (Patrick)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Shukurolloh Abdulboqiyev (Patrick)
 
-🎓 **Software Engineering Student** @ University of Europe for Applied Sciences (Berlin-Potsdam)  
-💻 **Passionate About**: Backend Development • Cybersecurity • Full-Stack Web Development  
-🏢 **Currently**: Intern @ A-maximus | Building scalable solutions & secure applications
+### ⚡ Cyber Sentinel • Full-Stack Architect • Innovation Engineer ⚡
 
----
+<div align="center">
 
-## 🛠️ Tech Stack
+![Matrix](https://raw.githubusercontent.com/ShukurollohAbdulboqiyev/ShukurollohAbdulboqiyev/main/assets/matrix.gif)
 
-### **Programming Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**"First they ignore you, then they laugh at you, then they fight you, then you win." - Mahatma Gandhi**
 
-### **Databases & Big Data**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-
-### **Technologies & Concepts**
-![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge)
-![Parallel Computing](https://img.shields.io/badge/Parallel_Computing-4ECDC4?style=for-the-badge)
-![Multi-threading](https://img.shields.io/badge/Multi--threading-45B7D1?style=for-the-badge)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎮 Live Dashboard
 
-![Shukurolloh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShukurollohAbdulboqiyev&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShukurollohAbdulboqiyev&layout=compact&theme=radical)
+| 🏆 GitHub Trophy | 📊 Activity Graph |
+| :---: | :---: |
+| ![Trophy](https://github-profile-trophy.vercel.app/?username=ShukurollohAbdulboqiyev&theme=radical&no-frame=true&row=2&column=4) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShukurollohAbdulboqiyev&theme=react-dark&hide_border=true&area=true) |
 
----
-
-## 🚀 My Projects
-
-*Working on amazing projects - coming soon!*  
-*Check back later to see what I'm building* 🚀
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 🛠️ Quantum Tech Arsenal
 
-[![Email](https://img.shields.io/badge/Email-shukurollohabdulboqiyev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shukurollohabdulboqiyev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ShukurollohAbdulboqiyev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShukurollohAbdulboqiyev)
+<div align="center">
 
-📍 **Based in**: Berlin, Germany  
-💼 **Open to**: Internships & Collaboration Projects
-
----
-
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+### **⚡ Core Programming Matrix**
+```java
+// CYBER-NEURAL INTERFACE ACTIVATED
+const techStack = {
+  languages: ["Java", "C++", "Python", "JavaScript", "TypeScript"],
+  backend: ["Spring Boot", "Node.js", "Express", "FastAPI"],
+  frontend: ["React", "Vue", "Three.js", "WebGL"],
+  databases: ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"],
+  devops: ["Docker", "Kubernetes", "AWS", "Azure", "CI/CD"],
+  cybersecurity: ["Penetration Testing", "Cryptography", "Network Security"],
+  special: ["Machine Learning", "Computer Vision", "Blockchain", "IoT"]
+};
