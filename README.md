@@ -6,7 +6,7 @@
 
 ![Matrix](https://raw.githubusercontent.com/ShukurollohAbdulboqiyev/ShukurollohAbdulboqiyev/main/assets/matrix.gif)
 
-**"First they ignore you, then they laugh at you, then they fight you, then you win." - Mahatma Gandhi**
+**"First they ignore you, then they laugh at you, then they fight you, then you win."**
 
 </div>
 
