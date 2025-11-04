@@ -33,30 +33,17 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
-### 🔒 **SecureAuth System**
-- Advanced authentication system with multi-factor security
-- **Tech**: Java, Spring Boot, PostgreSQL, JWT
-- [![View Project](#)]()
-
-### 🌐 **E-Commerce Platform**
-- Full-stack web application with payment integration
-- **Tech**: JavaScript, React, Node.js, MongoDB
-- [![View Project](#)]()
-
-### 📊 **Data Analytics Dashboard**
-- Big data processing and visualization tool
-- **Tech**: Python, Hadoop, Pandas, Matplotlib
-- [![View Project](#)]()
+*Working on amazing projects - coming soon!*  
+*Check back later to see what I'm building* 🚀
 
 ---
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shukurollohabdulboqiyev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-shukurollohabdulboqiyev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shukurollohabdulboqiyev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ShukurollohAbdulboqiyev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShukurollohAbdulboqiyev)
 
 📍 **Based in**: Berlin, Germany  
 💼 **Open to**: Internships & Collaboration Projects
