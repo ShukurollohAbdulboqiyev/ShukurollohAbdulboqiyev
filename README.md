@@ -1,41 +1,59 @@
-# Shukurolloh Abdulboqiyev (Patrick)
-**Software Engineering Student** | Backend Development | Cybersecurity
+# 👋 Shukurolloh Abdulboqiyev (Patrick)
+**🎓 Software Engineering Student** | **⚡ Backend Development** | **🔒 Cybersecurity**
 
-## About Me
-Software Engineering student at the University of Europe for Applied Sciences (Berlin-Potsdam). Currently interning at A-maximus with strong focus on backend systems, database architecture, and cybersecurity principles.
+## 🚀 About Me
+🎯 Software Engineering student at the **University of Europe for Applied Sciences** (Berlin-Potsdam).  
+💼 Currently interning at **A-maximus** with strong focus on backend systems, database architecture, and cybersecurity principles.
 
-## Technical Skills
+## 📊 GitHub Analytics
 
-### Programming Languages
-- **Java** - Strong object-oriented programming skills
-- **C++** - Systems programming and performance optimization
-- **Python** - Scripting and backend development
-- **JavaScript** - Web development and asynchronous programming
+<div align="center">
 
-### Database Technologies
-- **PostgreSQL** - Advanced querying and database design
-- **Hadoop** - Big data processing and distributed systems
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShukurollohAbdulboqiyev&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShukurollohAbdulboqiyev&layout=compact&theme=radical&hide_border=true) |
+| :--- | :--- |
 
-### Core Concepts
-- Object-Oriented Programming (OOP)
-- Parallel Programming and concurrency
-- Multi-threading and synchronization
-- System architecture design
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShukurollohAbdulboqiyev&theme=radical&hide_border=true)
 
-## Education
-**University of Europe for Applied Sciences** - B.Sc. Software Engineering  
-*Berlin-Potsdam*
+</div>
 
-## Experience
-**A-maximus** - Software Engineering Intern  
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Database Technologies
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+### 🔧 Tools & Concepts
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge)
+![Parallel Computing](https://img.shields.io/badge/Parallel_Computing-4ECDC4?style=for-the-badge)
+
+## 📚 Education & Experience
+
+**🎓 University of Europe for Applied Sciences**  
+*B.Sc. Software Engineering | Berlin-Potsdam*
+
+**💼 A-maximus** - Software Engineering Intern  
 *Developing scalable backend solutions and enterprise applications*
 
-## GitHub Activity
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ShukurollohAbdulboqiyev&layout=compact)
+## 🌐 Connect With Me
 
-## Contact
-- Email: shukurollohabdulboqiyev@gmail.com
-- LinkedIn: [Your Profile URL]
-- Location: Berlin, Germany
+[![Email](https://img.shields.io/badge/Email-shukurollohabdulboqiyev9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shukurollohabdulboqiyev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shukurolloh-abdulbokiev-57557a352/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShukurollohAbdulboqiyev)
 
-*Open to internship opportunities and technical collaborations*
+📍 **Berlin, Germany**  
+🚀 **Open to internship opportunities and technical collaborations**
+
+---
+
+<div align="center">
+
+*"Code is craft. Performance is art."* ✨
+
+</div>
