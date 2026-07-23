@@ -1,10 +1,9 @@
 # 👋 Shukurolloh Abdulboqiyev (Patrick)
-**🎓 Software Engineering Student** | **⚡ Backend Development** | **🔒 Cybersecurity**
+**🎓 Software Engineering Student** | **⚡ Backend Development** 
 
 ## 🚀 About Me
 🎯 Software Engineering student at the **University of Europe for Applied Sciences** (Berlin-Potsdam).  
-💼 Currently interning at **A-maximus** with strong focus on backend systems, database architecture, and cybersecurity principles.
-
+ 
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -37,9 +36,6 @@
 
 **🎓 University of Europe for Applied Sciences**  
 *B.Sc. Software Engineering | Berlin-Potsdam*
-
-**💼 A-maximus** - Software Engineering Intern  
-*Developing scalable backend solutions and enterprise applications*
 
 ## 🌐 Connect With Me
 
